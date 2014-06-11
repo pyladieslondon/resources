@@ -15,4 +15,10 @@ Learning Python
 ---------------
 * 10 ways to learn Python: http://codecondo.com/10-ways-to-learn-python/
 * Think Python: http://www.greenteapress.com/thinkpython/html/
+* Learn Python The Hard Way: http://learnpythonthehardway.org/
+* A Byte of Python: http://www.swaroopch.com/notes/python/
+* Python 101:http://www.rexx.com/~dkuhlman/python_101/python_101.html 
 * Codecademy: http://www.codecademy.com/tracks/python
+* Coursera: https://www.coursera.org/courses?search=python
+* EdX: https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA
+
