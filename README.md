@@ -25,7 +25,7 @@ Learning Python
 Events to come
 --------------
 * 21-27 July, Berlin - Europython 2014: https://ep2014.europython.eu/en/
-Deadline 23 June - Apply for a grant: https://ep2014.europython.eu/en/registration/google-women-tech-conference-and-travel-grants/
+    - Deadline 23 June - Apply for a grant: https://ep2014.europython.eu/en/registration/google-women-tech-conference-and-travel-grants/
 * 25-27 July, Berlin - PyData Berlin 2014: http://pydata.org/berlin2014/
 * 27-30 August, Cambridge - EuroSciPy 2014: https://www.euroscipy.org/2014/
 * 19-22 September, Coventry - Pycon UK 2014: http://www.pyconuk.org/
