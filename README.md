@@ -24,6 +24,7 @@ Learning Python
 
 Events to come
 --------------
+* 2 September, London - The London Python Group: http://www.meetup.com/The-London-Python-Group-TLPG/
 * 4 September, London - Python Dojo: http://ldnpydojo.eventwax.com/london-python-code-dojo-season-7-episode-1
 * 19-22 September, Coventry - Pycon UK 2014: http://www.pyconuk.org/
 * 26 September, London - Uncubed: http://london.uncubed.com/
