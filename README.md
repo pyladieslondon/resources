@@ -17,16 +17,16 @@ Learning Python
 * Think Python: http://www.greenteapress.com/thinkpython/html/
 * Learn Python The Hard Way: http://learnpythonthehardway.org/
 * A Byte of Python: http://www.swaroopch.com/notes/python/
-* Python 101:http://www.rexx.com/~dkuhlman/python_101/python_101.html 
+* Python 101: http://www.rexx.com/~dkuhlman/python_101/python_101.html 
 * Codecademy: http://www.codecademy.com/tracks/python
 * Coursera: https://www.coursera.org/courses?search=python
 * EdX: https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA
 
 Events to come
 --------------
-* 27-30 August, Cambridge - EuroSciPy 2014: https://www.euroscipy.org/2014/
 * 4 September, London - Python Dojo: http://ldnpydojo.eventwax.com/london-python-code-dojo-season-7-episode-1
 * 19-22 September, Coventry - Pycon UK 2014: http://www.pyconuk.org/
 * 26 September, London - Uncubed: http://london.uncubed.com/
 * 11-14 October, Dublin - Pycon Ireland: http://www.python.ie/pycon/2014/
-* Spring 2015, Montreal - Pycon US 2015: to be announced
+* 8-15 April 2015, Montreal - Pycon US: https://us.pycon.org/2015/
+=> apply for financial aid: https://us.pycon.org/2015/assistance/
