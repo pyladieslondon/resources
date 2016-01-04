@@ -1,9 +1,9 @@
-#RESOURCES - PyLadies London
+##RESOURCES - PyLadies London
 
 
 Python Guide: http://docs.python-guide.org/en/latest/
 
-##Getting set up
+###Getting set up
 
 * For Mac OS X:
     - http://docs.python-guide.org/en/latest/starting/install/osx/
@@ -12,7 +12,7 @@ Python Guide: http://docs.python-guide.org/en/latest/
 * For Linux: http://docs.python-guide.org/en/latest/starting/install/linux/
 
 
-##Learning Python
+###Learning Python
 
 * 10 ways to learn Python: http://codecondo.com/10-ways-to-learn-python/
 * Think Python: http://www.greenteapress.com/thinkpython/html/
@@ -23,7 +23,9 @@ Python Guide: http://docs.python-guide.org/en/latest/
 * Coursera: https://www.coursera.org/courses?search=python
 * EdX: https://www.edx.org/course/mitx/mitx-6-00-1x-introduction-computer-1841#.U5in4IaP8xA
 
+__=> Check [here](http://github.com/pyladieslondon/resources/blob/master/learning-resources.md) for more learning resources!__
 
-###[Events to come](https://www.python.org/events/)
+
+####[Events to come](https://www.python.org/events/)
 
 __=> remember most conferences allow you to apply for financial aid__
