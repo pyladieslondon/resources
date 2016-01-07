@@ -26,6 +26,15 @@ Python Guide: http://docs.python-guide.org/en/latest/
 __=> Check [here](http://github.com/pyladieslondon/resources/blob/master/learning-resources.md) for more learning resources!__
 
 
-####[Events to come](https://www.python.org/events/)
+####[Python events to come](https://www.python.org/events/)
 
 __=> remember most conferences allow you to apply for financial aid__
+
+
+
+###Other events
+
+####Meetups
+
+
+####Conferences

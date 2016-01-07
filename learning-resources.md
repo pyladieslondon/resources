@@ -36,6 +36,8 @@
 
 * [CodeSchool](http://www.codeschool.com/)
 
+* [NewCoder.io](http://newcoder.io/) <- short Python projects
+
 
 ###Gamified learning
 
@@ -44,3 +46,13 @@
 * [CheckIO](http://www.checkio.org/)
 
 * [CodingGame](http://www.codingame.com/start)
+
+
+
+###Videos
+
+* [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A)
+
+* [Geek gurl diaries](https://www.youtube.com/channel/UCxrp2coE9wRrnlOO3V3UmdQ)
+
+* [Code.org](https://www.youtube.com/user/CodeOrg)
