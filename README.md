@@ -35,6 +35,8 @@ __=> remember most conferences allow you to apply for financial aid__
 ###Other events
 
 ####Meetups
+The Git pyladies meetup is awesome. Again. and again and again
+
 
 ####Conferences
 
