@@ -28,6 +28,8 @@
 
 ###Tutorials
 
+* [Learn Python the hard way](http://learnpythonthehardway.org/book/intro.html)
+
 * [DjangoGirls tutorial](http://tutorial.djangogirls.org/en/index.html)
 
 * [Dataquest tutorials](https://www.dataquest.io/)
