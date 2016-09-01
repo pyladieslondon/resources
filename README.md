@@ -3,6 +3,8 @@
 
 Python Guide: http://docs.python-guide.org/en/latest/
 
+How to think like a computer scientist [interactive edition](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+
 ###Getting set up
 
 * For Mac OS X:
