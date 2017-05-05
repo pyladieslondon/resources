@@ -1,11 +1,11 @@
-##RESOURCES - PyLadies London
+## RESOURCES - PyLadies London
 
 
 Python Guide: http://docs.python-guide.org/en/latest/
 
 How to think like a computer scientist [interactive edition](http://interactivepython.org/runestone/static/thinkcspy/index.html)
 
-###Getting set up
+### Getting set up
 
 * For Mac OS X:
     - http://docs.python-guide.org/en/latest/starting/install/osx/
@@ -14,7 +14,7 @@ How to think like a computer scientist [interactive edition](http://interactivep
 * For Linux: http://docs.python-guide.org/en/latest/starting/install/linux/
 
 
-###Learning Python
+### Learning Python
 
 * 10 ways to learn Python: http://codecondo.com/10-ways-to-learn-python/
 * Think Python: http://www.greenteapress.com/thinkpython/html/
@@ -28,18 +28,18 @@ How to think like a computer scientist [interactive edition](http://interactivep
 __=> Check [here](http://github.com/pyladieslondon/resources/blob/master/learning-resources.md) for more learning resources!__
 
 
-####[Python events to come](https://www.python.org/events/)
+#### [Python events to come](https://www.python.org/events/)
 
 __=> remember most conferences allow you to apply for financial aid__
 
 
 
-###Other events
+### Other events
 
-####Meetups
+#### Meetups
 The Git pyladies meetup is awesome. Again. and again and again
 
 
-####Conferences
+#### Conferences
 
 
